@@ -1,0 +1,30 @@
+{
+  "name": "apibbm",
+  "version": "1.0.0",
+  "description": "Aplikasi Server API bbm2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saelani/apibbm.git"
+  },
+  "keywords": [
+    "server",
+    "api",
+    "node",
+    "expres"
+  ],
+  "author": "saelain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saelani/apibbm/issues"
+  },
+  "homepage": "https://github.com/saelani/apibbm#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.4"
+  }
+}
